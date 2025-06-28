@@ -100,8 +100,6 @@ It transforms the user registration form from the previous PHP assignment into a
         DB_DATABASE=/absolute/path/to/database/database.sqlite
         ```
 
-    Or adjust your `.env` for MySQL if you prefer.
-
 7. Run migrations:
 
     ```bash
